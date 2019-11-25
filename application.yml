@@ -2,3 +2,9 @@ love:
     i love laohan
 info:
     this is base application.yml
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/ybls?characterEncoding=UTF-8
+        username: root
+        password: ilovelaohan   
