@@ -1,5 +1,2 @@
-love: 
-    i love laohan
-info:
-    this is base application.yml
- 
+value5:
+    application.yml
