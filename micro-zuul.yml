@@ -7,12 +7,11 @@ eureka:
   instance:
     prefer-ip-address: true
 
-
 zuul:
   routes:
     product:
       path: /product/**
-      service-id: PROCT
+      service-id: PRODUCT
     orders:
       path: /orders/**
       service-id: ORDER
